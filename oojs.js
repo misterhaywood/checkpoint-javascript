@@ -8,7 +8,7 @@
 class Playlist {
   constructor (title, songs) {
     this.title = title;
-    this.height = height;
+    this.songs = [];
   }
   addSong(song) {
     songs.push(song)
