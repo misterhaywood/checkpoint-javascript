@@ -30,5 +30,5 @@ var instructor = {firstName:"Pete", lastName:"Woods", age:33};
 // it (do not change the original object you typed above) and assigning it
 // a boolean value.
 // Type your solution immediately below this line:
-instructor.has-office-hours = true;
+instructor.['has-office-hours'] = true;
 
